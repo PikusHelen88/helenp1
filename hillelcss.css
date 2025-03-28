@@ -1,0 +1,35 @@
+p{
+   font-family: verdan;
+   font-size: 30px;
+}
+h1 { color: #a6780a; 
+}
+p{
+ color: olive;
+ border-bottom: 2px solid black;
+}
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+}p {
+  font-style: italic;
+}
+p{
+ color: black;
+ }
+img {
+  border-radius: 50%;
+}
+.p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+h1 {
+  font-family: Georgia, serif;
+  font-size: 60px;
+  color: white;
+}
+h1 {
+  text-shadow: 2px 2px grey;
+}
+div {
+  padding: 25px 50px 75px;
+}
